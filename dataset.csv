@@ -2,7 +2,7 @@ TRAINING,6_of_hearts.png,6h,0,0,1,1
 TRAINING,queen_of_hearts.png,qh,0,0,1,1
 TRAINING,ace_of_spades.png,as,0,0,1,1
 TRAINING,2_of_hearts.png,2h,0,0,1,1
-TRAINING,10_of_clubs.png,1c,0,0,1,1
+TRAINING,10_of_clubs.png,10c,0,0,1,1
 TRAINING,king_of_hearts2.png,kh,0,0,1,1
 TRAINING,6_of_diamonds.png,6d,0,0,1,1
 TRAINING,jack_of_hearts2.png,jh,0,0,1,1
@@ -25,7 +25,7 @@ TRAINING,jack_of_clubs.png,jc,0,0,1,1
 TRAINING,9_of_diamonds.png,9d,0,0,1,1
 TRAINING,5_of_hearts.png,5h,0,0,1,1
 TRAINING,king_of_diamonds2.png,kd,0,0,1,1
-TRAINING,10_of_spades.png,1s,0,0,1,1
+TRAINING,10_of_spades.png,10s,0,0,1,1
 TRAINING,ace_of_diamonds.png,ad,0,0,1,1
 TRAINING,2_of_clubs.png,2c,0,0,1,1
 TRAINING,queen_of_diamonds.png,qd,0,0,1,1
@@ -40,7 +40,7 @@ TRAINING,5_of_clubs.png,5c,0,0,1,1
 TRAINING,7_of_spades.png,7s,0,0,1,1
 TRAINING,king_of_spades2.png,ks,0,0,1,1
 TRAINING,4_of_clubs.png,4c,0,0,1,1
-TRAINING,10_of_diamonds.png,1d,0,0,1,1
+TRAINING,10_of_diamonds.png,10d,0,0,1,1
 TRAINING,jack_of_hearts.png,jh,0,0,1,1
 TRAINING,3_of_clubs.png,3c,0,0,1,1
 TRAINING,4_of_hearts.png,4h,0,0,1,1
@@ -48,7 +48,7 @@ TRAINING,jack_of_clubs2.png,jc,0,0,1,1
 TRAINING,queen_of_spades2.png,qs,0,0,1,1
 TRAINING,8_of_diamonds.png,8d,0,0,1,1
 TRAINING,king_of_spades.png,ks,0,0,1,1
-TRAINING,10_of_hearts.png,1h,0,0,1,1
+TRAINING,10_of_hearts.png,10h,0,0,1,1
 TRAINING,7_of_clubs.png,7c,0,0,1,1
 TRAINING,6_of_spades.png,6s,0,0,1,1
 TRAINING,3_of_diamonds.png,3d,0,0,1,1
